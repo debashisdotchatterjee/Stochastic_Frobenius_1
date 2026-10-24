@@ -73,4 +73,4 @@ The software distinguishes four materially different kinds of quantities:
 
 ## Scientific scope
 
-These are synthetic experiments under the stated model. They do **not** constitute data from McDonald's or any other real-world business. Empirical Monte Carlo coverage is distinct from a proof of frequentist coverage. The generated LaTeX tables are supplementary study outputs, not an independently peer-reviewed paper. The manuscript's novelty must be assessed against the literature before publication.
+These are synthetic experiments under the stated model. 
